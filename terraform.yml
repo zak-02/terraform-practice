@@ -1,6 +1,7 @@
 resources:
   - name: terraform-ec2
     type: git
+    icon: github
     source:
       uri: https://github.com/zak-02/terraform-practice.git
 
